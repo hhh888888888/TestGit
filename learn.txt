@@ -4,4 +4,5 @@ learn 003 by PC-feature/feature01 20250814
 learn 004 by pc-feature/feature01 20250814 Adjust by GitHub 20250814
 learn 005 by GitHub 20250814
 learn 006 by pc-main 20250814
-learn 007 by pc-mian 20250814
+learn 007 by GitHub 20250814 adjust by pc
+learn 008 by pc-main 20250814
